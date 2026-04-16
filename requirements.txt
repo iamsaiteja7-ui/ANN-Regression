@@ -1,0 +1,6 @@
+streamlit
+pandas
+scikit-learn
+tensorflow-cpu==2.18.0
+numpy
+h5py
